@@ -37,5 +37,5 @@ This project implements a real-time notification system using Node.js for the ba
 ## Future Improvements
 
 - Implement user authentication
-- Add persistent storage using a database like MongoDB
+- Add local storage to save JWT token 
 - Enhance UI/UX with more interactive features
