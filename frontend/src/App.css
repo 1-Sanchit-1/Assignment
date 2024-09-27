@@ -1,0 +1,59 @@
+.p-4 {
+  padding: 1rem;
+}
+
+.mb-4 {
+  margin-bottom: 1rem;
+}
+
+.text-2xl {
+  font-size: 1.5rem;
+}
+
+.text-xl {
+  font-size: 1.25rem;
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.font-semibold {
+  font-weight: 600;
+}
+
+.border {
+  border: 1px solid #ccc;
+}
+
+.border-rounded {
+  border-radius: 5px;
+}
+
+.bg-blue-500 {
+  background-color: #007bff;
+}
+
+.bg-green-500 {
+  background-color: #28a745;
+}
+
+.text-white {
+  color: white;
+}
+
+.rounded {
+  border-radius: 0.25rem;
+}
+
+.mt-1 {
+  margin-top: 0.25rem;
+}
+
+.mr-2 {
+  margin-right: 0.5rem;
+}
+
+.ml-2 {
+  margin-left: 0.5rem;
+}
